@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabriel.peixoto\\Desktop\\workspace\\DesafioCorreios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj": {}
+    "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabriel.peixoto\\Desktop\\workspace\\DesafioCorreios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj": {
+    "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabriel.peixoto\\Desktop\\workspace\\DesafioCorreios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj",
+        "projectUniqueName": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj",
         "projectName": "DesafioCorreiosApi",
-        "projectPath": "C:\\Users\\gabriel.peixoto\\Desktop\\workspace\\DesafioCorreios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj",
-        "packagesPath": "C:\\Users\\gabriel.peixoto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabriel.peixoto\\Desktop\\workspace\\DesafioCorreios\\DesafioCorreiosApi\\DesafioCorreiosApi\\obj\\",
+        "projectPath": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\DesafioCorreiosApi.csproj",
+        "packagesPath": "C:\\Users\\spbie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabriel.peixoto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\spbie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -57,6 +57,12 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.13, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
@@ -94,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
