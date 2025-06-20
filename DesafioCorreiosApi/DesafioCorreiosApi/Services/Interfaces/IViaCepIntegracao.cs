@@ -7,7 +7,7 @@ public interface IViaCepIntegracao
 {
 
     [Get("/ws/{cep}/json")]
-    Task<ApiResponse<Endereco>> ObterEnderecoViaCep(string cep);
+    Task<ApiResponse<Endereco>> ObterEnderecoViaCepAsync(string cep);
 
 
 }

@@ -2,30 +2,50 @@
 using DesafioCorreiosApi.Data;
 using DesafioCorreiosApi.Data.Dtos;
 using DesafioCorreiosApi.Models;
+using DesafioCorreiosApi.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace DesafioCorreiosApi.Services;
 
-public class ClienteService
+public class ClienteService : IClienteService
 {
     private readonly IMapper _mapper;
     private readonly CorreiosContext _context;
+    private readonly IViaCep _viaCep;
 
-    public ClienteService(CorreiosContext context, IMapper mapper)
+    public ClienteService(CorreiosContext context, IMapper mapper, IViaCep viaCep)
     {
         _context = context;
         _mapper = mapper;
+        _viaCep = viaCep;
     }
-    public async Task<Cliente> CadastraCliente (CreateClienteDto dto)
+    public async Task<ReadClienteDto> CadastraClienteAsync (CreateClienteDto dto)
     {
-        Cliente cliente = _mapper.Map<Cliente>(dto);
+
+        var endereco = await _viaCep.CadastraEndereco(dto.Cep, dto.Numero, dto.Complemento);
+
+        if (endereco == null)
+        {
+            return null;
+        }
+
+        var cliente = _mapper.Map<Cliente>(dto);
+        cliente.EnderecoId = endereco.Id;
+        cliente.Endereco = endereco;
+
         _context.Clientes.Add(cliente);
         await _context.SaveChangesAsync();
-        return cliente;
+
+        var clienteDto = _mapper.Map<ReadClienteDto>(cliente);
+
+        return clienteDto;
     }
 
     public async Task<ReadClienteDto> RecuperaClientePorIdAsync(int id)
     {
-        var cliente = await _context.Clientes.FindAsync(id);
+        var cliente = await _context.Clientes
+            .Include(c => c.Endereco)
+            .FirstOrDefaultAsync(c => c.Id == id);
 
         if (cliente == null)
         {
@@ -33,6 +53,8 @@ public class ClienteService
         }
 
         ReadClienteDto clienteDto = _mapper.Map<ReadClienteDto>(cliente);
+
         return clienteDto;
     }
+
 }

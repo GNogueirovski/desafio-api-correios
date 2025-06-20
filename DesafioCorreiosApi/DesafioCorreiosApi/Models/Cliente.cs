@@ -8,12 +8,15 @@ public class Cliente
     [Required]
     public int Id { get; set; }
 
-    [Required]
+    [Required(ErrorMessage = "O campo Nome é obrigatório")]
     public string Nome { get; set; }
 
-    [Required]
+    [Required(ErrorMessage = "O campo Email é obrigatório")]
     public string Email { get; set; }
 
-    [Required]
+    [Required(ErrorMessage = "O campo Telefone é obrigatório")]
     public string Telefone { get; set; }
+
+    public int EnderecoId { get; set; }
+    public Endereco Endereco { get; set; }
 }

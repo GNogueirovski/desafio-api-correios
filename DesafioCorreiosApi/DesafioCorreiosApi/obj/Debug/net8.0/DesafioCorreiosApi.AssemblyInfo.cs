@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DesafioCorreiosApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b82bd597c295fee167530d7f93d5eb5da8055416")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84147c63cf538b10f9093b0445fde3c894418a47")]
 [assembly: System.Reflection.AssemblyProductAttribute("DesafioCorreiosApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DesafioCorreiosApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

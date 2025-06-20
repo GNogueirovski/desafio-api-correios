@@ -1,6 +1,5 @@
 ﻿using DesafioCorreiosApi.Data.Dtos;
-using DesafioCorreiosApi.Models;
-using DesafioCorreiosApi.Services;
+using DesafioCorreiosApi.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DesafioCorreiosApi.Controllers;
@@ -10,17 +9,17 @@ namespace DesafioCorreiosApi.Controllers;
 public class ClienteController : ControllerBase
 {
 
-    private ClienteService _clienteService;
+    private IClienteService _clienteService;
 
-    public ClienteController(ClienteService clienteService)
+    public ClienteController(IClienteService clienteService)
     {
         _clienteService = clienteService;
     }
 
     [HttpPost]
-    public async Task<IActionResult> AdicionarCliente([FromBody] CreateClienteDto dto)
+    public async Task<IActionResult> CriaCliente([FromBody] CreateClienteDto dto)
     {
-        Cliente cliente = await _clienteService.CadastraCliente(dto);
+        var cliente = await _clienteService.CadastraClienteAsync(dto);
 
         if (cliente == null)
         {

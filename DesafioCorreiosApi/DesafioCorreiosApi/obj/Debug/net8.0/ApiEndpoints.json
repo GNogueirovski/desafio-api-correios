@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "DesafioCorreiosApi.Controllers.ClienteController",
-    "Method": "AdicionarCliente",
+    "Method": "CriaCliente",
     "RelativePath": "Cliente",
     "HttpMethod": "POST",
     "IsController": true,
@@ -30,31 +30,5 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "DesafioCorreiosApi.Controllers.ViaCepController",
-    "Method": "ListarDadosEndereco",
-    "RelativePath": "ViaCep/{cep}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "cep",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "DesafioCorreiosApi.Models.Endereco",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   }
 ]

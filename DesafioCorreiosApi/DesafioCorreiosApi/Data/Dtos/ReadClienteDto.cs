@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace DesafioCorreiosApi.Data.Dtos;
+﻿namespace DesafioCorreiosApi.Data.Dtos;
 
 public class ReadClienteDto
 {
@@ -8,4 +6,5 @@ public class ReadClienteDto
     public string Nome { get; set; }
     public string Email { get; set; }
     public string Telefone { get; set; }
+    public ReadEnderecoDto Endereco { get; set; }
 }

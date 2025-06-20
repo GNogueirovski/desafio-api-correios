@@ -4,5 +4,6 @@ namespace DesafioCorreiosApi.Services.Interfaces;
 
 public interface IViaCep
 {
-    Task<Endereco> ObterEnderecoViaCep(string cep);
+    Task<Endereco> ObterEnderecoViaCepAsync(string cep);
+    Task<Endereco> CadastraEndereco(string cep, string numero, string? complemento);
 }

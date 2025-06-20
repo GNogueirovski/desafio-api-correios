@@ -3,52 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\controllers\\viacepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\controllers\\viacepcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\data\\dtos\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\data\\dtos\\createclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\data\\dtos\\readenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\data\\dtos\\readenderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\data\\dtos\\readclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\data\\dtos\\readclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\viacepservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\interfaces\\iviacepintegracao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\data\\correioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\data\\correioscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\services\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|solutionrelative:desafiocorreiosapi\\services\\interfaces\\iviacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F477522D-BD1D-496C-9377-5315B584F40A}|DesafioCorreiosApi\\DesafioCorreiosApi.csproj|c:\\users\\spbie\\desktop\\workspace\\trabalho\\desafiocorreiosapi\\desafio-api-correios\\desafiocorreiosapi\\desafiocorreiosapi\\profiles\\clienteprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,175 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViaCepController.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ViaCepController.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Controllers\\ViaCepController.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ViaCepController.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Controllers\\ViaCepController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:23:56.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ViaCepService.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ViaCepService.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\ViaCepService.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ViaCepService.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Services\\ViaCepService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Title": "CreateClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\CreateClienteDto.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Data\\Dtos\\CreateClienteDto.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\CreateClienteDto.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Data\\Dtos\\CreateClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:13:04.476Z",
+              "WhenOpened": "2025-06-20T21:14:08.333Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IViaCep.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Title": "ReadEnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\ReadEnderecoDto.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Data\\Dtos\\ReadEnderecoDto.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\ReadEnderecoDto.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Data\\Dtos\\ReadEnderecoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:12:34.394Z",
+              "WhenOpened": "2025-06-20T21:14:03.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IViaCepIntegracao.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Title": "ReadClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\ReadClienteDto.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Data\\Dtos\\ReadClienteDto.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\Dtos\\ReadClienteDto.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Data\\Dtos\\ReadClienteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:04:07.611Z",
+              "WhenOpened": "2025-06-20T21:13:57.612Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Program.cs",
               "RelativeDocumentMoniker": "DesafioCorreiosApi\\Program.cs",
               "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Program.cs",
               "RelativeToolTip": "DesafioCorreiosApi\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T16:00:39.974Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Models\\Endereco.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Models\\Endereco.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Models\\Endereco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:55:23.389Z",
+              "WhenOpened": "2025-06-20T21:07:05.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20250618154744_Adicionando Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Migrations\\20250618154744_Adicionando Cliente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB0AAAAlAAAAAAAAAA==",
+              "Title": "IViaCepIntegracao.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCepIntegracao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T15:47:44.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\appsettings.json",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\appsettings.json",
-              "RelativeToolTip": "DesafioCorreiosApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-18T13:43:07.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CorreiosContext.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\CorreiosContext.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Data\\CorreiosContext.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Data\\CorreiosContext.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Data\\CorreiosContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:40:35.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwB8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:34:01.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ClienteService.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ClienteService.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Services\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:35:30.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClienteProfile.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:29:18.276Z",
+              "WhenOpened": "2025-06-20T21:07:35.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Models\\Cliente.cs",
-              "RelativeToolTip": "DesafioCorreiosApi\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Title": "IViaCep.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Services\\Interfaces\\IViaCep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:21:19.215Z",
+              "WhenOpened": "2025-06-20T21:07:33.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:07:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Controllers\\ClienteController.cs*",
+              "RelativeToolTip": "DesafioCorreiosApi\\Controllers\\ClienteController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:06:21.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\ClienteService.cs*",
+              "RelativeToolTip": "DesafioCorreiosApi\\Services\\ClienteService.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:05:03.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteProfile.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Profiles\\ClienteProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:04:25.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "DesafioCorreiosApi\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Users\\spbie\\Desktop\\WORKSPACE\\Trabalho\\DesafioCorreiosApi\\desafio-api-correios\\DesafioCorreiosApi\\DesafioCorreiosApi\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "DesafioCorreiosApi\\Services\\EnderecoService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T21:04:01.922Z",
               "EditorCaption": ""
             }
           ]
